@@ -1,0 +1,3 @@
+This is a Image Classification Model built using CNN in Tensorflow and Keras.
+The dataset used is fashion_mnist and got upto 90% Test accuracy score.
+
